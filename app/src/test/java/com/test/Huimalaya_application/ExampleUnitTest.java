@@ -1,4 +1,4 @@
-package com.test.netease_cloudapplication;
+package com.test.Huimalaya_application;
 
 import org.junit.Test;
 
